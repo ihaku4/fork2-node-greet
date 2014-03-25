@@ -14,5 +14,10 @@
   "devDependencies": {
     "mocha": "^1.18.2"
   },
-  "bin" : { "greet" : "./bin/greet.js" }
+  "bin": {
+    "greet": "./bin/greet.js"
+  },
+  "dependencies": {
+    "minimist": "0.0.8"
+  }
 }
