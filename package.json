@@ -2,7 +2,7 @@
   "name": "greet",
   "version": "0.0.0",
   "description": "A simple and naive greeter",
-  "main": "lib/index.js",
+  "main": "FALSE_INFO_FOR_TEST_index.js",
   "scripts": {
     "test": "mocha"
   },

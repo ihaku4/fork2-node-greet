@@ -1,0 +1,7 @@
+.npmignore
+.git*
+.DS_Store
+*.tgz
+README.md
+test/
+src/
